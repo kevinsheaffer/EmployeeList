@@ -1,0 +1,29 @@
+Create a list of integers:
+0
+The size of linked list is: 0
+The linked list is:
+Enter the key: 0
+Is the key in the list? 1
+How many values you want to remove? 3
+The list is:
+Create a list of strings:
+0
+ tom alice bob
+exit
+The size of linked list is: 4
+The linked list is:
+ bob, alice, tom, 0
+How many values you want to remove? 3
+The list is:
+ 0
+Create a list of employees:
+Enqueue employee id, name, dept (enter id 0 to stop): 1 john cse
+Enqueue employee id, name, dept (enter id 0 to stop): 2 elen math
+Enqueue employee id, name, dept (enter id 0 to stop): 3 josh art
+Enqueue employee id, name, dept (enter id 0 to stop): 0 end end
+The size of linked list is: 3
+The linked list is:
+ 3 josh art, 2 elen math, 1 john cse
+How many values you want to remove? 2
+The list is:
+ 1 john cse
